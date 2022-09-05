@@ -14,13 +14,7 @@
 7. In the `styles.css` file, add the following:
     
     ```css
-    box-1 {
-    float: left;
-    width: 200px;
-    height: 200px;
-    padding: 50px;
-    border: 1px solid red;
-    }
+    git
 
     ```
     
